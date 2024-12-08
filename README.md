@@ -1,2 +1,2 @@
-# targets_automation_gsheet_script-sample
+# Automation Targets Gsheet Script
 Sample script to automate target sheet on month level pivot.
